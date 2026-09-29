@@ -11,12 +11,6 @@
       "username": "Sawiyah",
       "password": "Sawiyah",
       "role": "Staff"
-    },
-    {
-      "fullName": "Idham",
-      "username": "Idham",
-      "password": "Idham123",
-      "role": "Visitor"
     }
   ],
   "employees": [
@@ -34,6 +28,13 @@
   "transactions": [],
   "apdTransactions": [],
   "notifications": [
+    {
+      "title": "Akun Dihapus",
+      "message": "Pengguna 'Idham' telah dihapus dari sistem.",
+      "icon": "fa-user-minus",
+      "time": "17:03",
+      "read": false
+    },
     {
       "title": "Sistem Login",
       "message": "User Nofrizal (Master Admin) berhasil masuk.",
@@ -235,13 +236,6 @@
       "message": "User Nofrizal (Master Admin) berhasil masuk.",
       "icon": "fa-sign-in-alt",
       "time": "13:29",
-      "read": true
-    },
-    {
-      "title": "Sistem Login",
-      "message": "User Nofrizal (Master Admin) berhasil masuk.",
-      "icon": "fa-sign-in-alt",
-      "time": "13:22",
       "read": true
     }
   ]
