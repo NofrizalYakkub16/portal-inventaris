@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "fullName": "Nofrizal Yakkub",
+      "username": "Nofrizal",
+      "password": "Nofrizal123",
+      "role": "Master Admin"
+    },
+    {
+      "fullName": "Sawiyah Pohan",
+      "username": "Sawiyah",
+      "password": "Sawiyah",
+      "role": "Staff"
+    },
+    {
+      "fullName": "Idham",
+      "username": "Idham",
+      "password": "Idham123",
+      "role": "Visitor"
+    }
+  ],
+  "employees": [
+    {
+      "idBadge": "225005",
+      "name": "Nofrizal Yakkub",
+      "department": "Support",
+      "email": "Nofrizal.Yakkub@Tripatra.com",
+      "status": "Aktif"
+    }
+  ],
+  "assets": [],
+  "toolLoans": [],
+  "apdLoans": [],
+  "transactions": [],
+  "apdTransactions": [],
+  "notifications": [
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "17:00",
+      "read": false
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "16:53",
+      "read": false
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Idham (Visitor) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "16:52",
+      "read": false
+    },
+    {
+      "title": "Akun Didaftarkan",
+      "message": "User baru 'Idham' (Visitor) ditambahkan.",
+      "icon": "fa-user-plus",
+      "time": "16:52",
+      "read": false
+    },
+    {
+      "title": "Asset Dihapus",
+      "message": "Asset 'Kursi Hitam' telah dihapus.",
+      "icon": "fa-trash",
+      "time": "16:51",
+      "read": true
+    },
+    {
+      "title": "Asset Diperbarui",
+      "message": "Data asset 'Kursi Hitam' (AST-TRIPATRA-0001) diperbarui.",
+      "icon": "fa-tools",
+      "time": "16:49",
+      "read": true
+    },
+    {
+      "title": "Asset Ditambahkan",
+      "message": "Asset baru 'Kursi Hitam' (AST-TRIPATRA-0001) berhasil didaftarkan.",
+      "icon": "fa-tools",
+      "time": "16:47",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "16:37",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "16:25",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "16:13",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "16:11",
+      "read": true
+    },
+    {
+      "title": "Karyawan Ditambahkan",
+      "message": "Karyawan baru 'Nofrizal Yakkub' (225005) berhasil didaftarkan.",
+      "icon": "fa-id-card",
+      "time": "16:06",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "16:02",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:56",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:55",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:52",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:50",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:43",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:15",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:09",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "15:01",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "14:55",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "14:53",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "14:44",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "14:35",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "14:24",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "14:07",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "13:57",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "13:29",
+      "read": true
+    },
+    {
+      "title": "Sistem Login",
+      "message": "User Nofrizal (Master Admin) berhasil masuk.",
+      "icon": "fa-sign-in-alt",
+      "time": "13:22",
+      "read": true
+    }
+  ]
+}
